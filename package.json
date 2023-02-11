@@ -2,7 +2,7 @@
   "name": "server",
   "version": "1.0.0",
   "description": "Hotel Booking Api",
-  "main": "src/server.ts",
+  "main": "server.js",
   "scripts": {
     "dev": "ts-node-dev --respawn --transpile-only src/server.ts",
     "build": "tsc",
